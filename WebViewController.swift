@@ -11,6 +11,7 @@
 //https://qiita.com/on0z/items/9768d2bccc29cc4e1851
 //autolayout
 //https://qiita.com/_ha1f/items/5c292bb6a4617da60d4f
+//http://programming-beginner-memo.com/?p=21
 
 import UIKit
 import WebKit // ブラウザ（WKWebView）に必要
